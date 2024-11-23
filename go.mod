@@ -6,7 +6,7 @@ toolchain go1.22.5
 require (
 	github.com/coocood/freecache v1.2.4
 	github.com/divyam234/cors v1.4.2
-	github.com/gin-gonic/gin v1.9.1
+	github.com/gin-gonic/gin v1.10.0
 	github.com/go-co-op/gocron v1.36.0
 	github.com/go-jose/go-jose/v3 v3.0.1
 	github.com/gotd/contrib v0.19.0
@@ -75,13 +75,13 @@ require (
 	go.opentelemetry.io/otel/trace v1.26.0 // indirect
 	go.uber.org/atomic v1.11.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
-	golang.org/x/arch v0.7.0 // indirect
+	golang.org/x/arch v0.8.0 // indirect
 	golang.org/x/crypto v0.28.0 // indirect
 	golang.org/x/net v0.30.0 // indirect
 	golang.org/x/sync v0.9.0 // indirect
 	golang.org/x/sys v0.26.0 // indirect
 	golang.org/x/text v0.19.0 // indirect
-	google.golang.org/protobuf v1.34.0 // indirect
+	google.golang.org/protobuf v1.34.1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	nhooyr.io/websocket v1.8.10 // indirect
 	rsc.io/qr v0.2.0 // indirect
