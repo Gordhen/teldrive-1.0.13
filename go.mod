@@ -8,17 +8,17 @@ require (
 	github.com/divyam234/cors v1.4.2
 	github.com/gin-gonic/gin v1.10.0
 	github.com/go-co-op/gocron v1.36.0
-	github.com/go-jose/go-jose/v3 v3.0.1
-	github.com/gotd/contrib v0.19.0
-	github.com/gotd/td v0.89.0
+	github.com/go-jose/go-jose/v3 v3.0.3
+	github.com/gotd/contrib v0.20.0
+	github.com/gotd/td v0.99.2
 	github.com/joho/godotenv v1.5.1
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/pkg/errors v0.9.1
 	github.com/quantumsheep/range-parser v1.1.0
 	github.com/thoas/go-funk v0.9.3
-	go.etcd.io/bbolt v1.3.8
-	go.uber.org/zap v1.26.0
+	go.etcd.io/bbolt v1.3.9
+	go.uber.org/zap v1.27.0
 	golang.org/x/exp v0.0.0-20240325151524-a685a6edb6d8
 	golang.org/x/time v0.5.0
 	gorm.io/driver/postgres v1.5.4
