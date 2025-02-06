@@ -1,7 +1,7 @@
 module github.com/divyam234/teldrive
 
 go 1.21
-toolchain go1.22.5
+toolchain go1.23.6
 
 require (
 	github.com/coocood/freecache v1.2.4
@@ -17,7 +17,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/quantumsheep/range-parser v1.1.0
 	github.com/thoas/go-funk v0.9.3
-	go.etcd.io/bbolt v1.3.8
+	go.etcd.io/bbolt v1.4.0
 	go.uber.org/zap v1.26.0
 	golang.org/x/exp v0.0.0-20240325151524-a685a6edb6d8
 	golang.org/x/time v0.5.0
@@ -78,8 +78,8 @@ require (
 	golang.org/x/arch v0.8.0 // indirect
 	golang.org/x/crypto v0.28.0 // indirect
 	golang.org/x/net v0.30.0 // indirect
-	golang.org/x/sync v0.9.0 // indirect
-	golang.org/x/sys v0.26.0 // indirect
+	golang.org/x/sync v0.10.0 // indirect
+	golang.org/x/sys v0.29.0 // indirect
 	golang.org/x/text v0.19.0 // indirect
 	google.golang.org/protobuf v1.34.1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
